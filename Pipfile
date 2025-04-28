@@ -4,6 +4,11 @@ verify_ssl = true
 name = "pypi"
 
 [packages]
+psycopg2-binary = "==2.9.10"
+asyncpg = "==0.30.0"
+sqlalchemy = "==2.0.40"
+ipykernel = "*"
+jupytext = "*"
 
 [dev-packages]
 
