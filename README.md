@@ -1,9 +1,3 @@
-Got it — you want this **properly formatted**, fixed from messy copy-paste formatting, with clean code blocks, proper markdown structure, and no broken bullets.
-
-Here’s your **correctly formatted version**:
-
----
-
 # python-database-mastery
 
 A structured walkthrough of the **"Python Database Mastery: Dive into SQLAlchemy & Alembic"** Udemy course — including notes, examples, projects, and personal insights.
